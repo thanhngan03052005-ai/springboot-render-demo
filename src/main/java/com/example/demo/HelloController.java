@@ -13,7 +13,7 @@ public class HelloController {
                <p><b>Nhóm:</b> Nhóm Đại đại</p>
                <p><b>Thành viên:</b></p>
            <ul>
-               <li>Huỳnh Thanh Ngân</li>
+               <li>Huỳnh Thanh Ngân </li>
                <li>Lưu Viễn Dương</li>
                <li>Hồ Như Trâm</li>
                <li>Phetsaninda</li>
