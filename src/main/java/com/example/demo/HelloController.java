@@ -10,7 +10,7 @@ public class HelloController {
     public String hello() {
         return """
                <h1>Giới thiệu nhóm</h1>
-               <p><b>Nhóm:</b> Nhóm Đại đại</p>
+               <p><b>Nhóm:</b> Đại đại</p>
                <p><b>Thành viên:</b></p>
            <ul>
                <li>Huỳnh Thanh Ngân </li>
